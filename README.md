@@ -13,7 +13,7 @@
 ---
 
 ```diff
-@@ MATRIX // DEDSEC PROFILE @@
+# @@ MATRIX // DEDSEC PROFILE @@
 + SYSTEM: ████████████████████ 100%
 - FIREWALL: BYPASSED
 ! BACKDOOR: DEPLOYED
@@ -25,17 +25,18 @@
 │  STATUS:      🟢 ACTIVE - UNTRACEABLE                       │
 │  MISSION:     Break encryption, fix exploits                │
 └─────────────────────────────────────────────────────────────┘
+>>> from core import stats
 
 >>> from core import stats
 
 stats = {
     "⭐ STARS_EARNED"     : "2.3k",
-    "💬 COMMENTS"        : "10.4k",
-    "🔄 PULL_REQUESTS"   : "291",
-    "✅ MERGED_PR"       : "267 (91.5%)",
-    "🔍 PR_REVIEWED"     : "101",
-    "🐛 BUGS_CRUSHED"    : "49",
-    "🌍 CONTRIBUTIONS"   : "7 projects"
+    "💬 COMMENTS"         : "10.4k",
+    "🔄 PULL_REQUESTS"    : "291",
+    "✅ MERGED_PR"        : "267 (91.5%)",
+    "🔍 PR_REVIEWED"      : "101",
+    "🐛 BUGS_CRUSHED"     : "49",
+    "🌍 CONTRIBUTIONS"    : "7 projects"
 }
 
 for key, value in stats.items():
@@ -57,10 +58,10 @@ for key, value in stats.items():
 │  [DEVOPS]      Docker │ 3-Node Cluster │ CentOS                 │
 └─────────────────────────────────────────────────────────────────┘
 
-<p align="left"> <a href="mailto:edrawardhana@github.com"> <img src="https://img.shields.io/badge/EMAIL-edrawardhana%40github.com-black?style=for-the-badge&logo=protonmail&logoColor=00ffcc&labelColor=black&color=black" /> </a> <a href="https://github.com/edrawardhana"> <img src="https://img.shields.io/badge/GITHUB-edrawardhana-black?style=for-the-badge&logo=github&logoColor=00ffcc" /> </a> </p>
-
-> PGP Fingerprint: EDRA-WARDHANA-GHOST-2F4A-9B1C
-> "Ask me anything — I don't bite, just encrypt."
+📧 Email: edrawardhana@github.com (PGP Encrypted)
+🐙 GitHub: github.com/edrawardhana
+PGP Fingerprint: EDRA-WARDHANA-GHOST-2F4A-9B1C
+"Ask me anything — I don't bite, just encrypt."
 
 +  ██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
 +  ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
@@ -68,8 +69,18 @@ for key, value in stats.items():
 +  ██║  ██║██╔══╝  ██║  ██║╚════██║██╔══╝  ██║     
 +  ██████╔╝███████╗██████╔╝███████║███████╗╚██████╗
 +  ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
-+
+
 +  "The system thinks it controls us. We are the control."
 +  -- Edra, DedSec Operative
+```
+<!-- Hapus bagian bawah yang lama, ganti dengan ini. Pastikan ada baris kosong di atasnya -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edrawardhana&label=🔓+DEDSEC_ACCESS_COUNT&color=00ffcc&style=for-the-badge" /> </p><p align="center"> <sub>⚠️ This profile is encrypted with DedSec protocol v2.0 | Unauthorized access will be traced ⚠️</sub> </p> ```
+<center>
+  <img src="https://img.shields.io/badge/DEDSEC_ACCESS_COUNT-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edrawardhana.edrawardhana&title=AUTHORIZED_OPERATIVES&color=00ffcc&style=flat-square" />
+</center>
+
+<center>
+  <sub>⚠️ <i>This profile is encrypted with DedSec protocol v2.0 | Unauthorized access will be traced</i> ⚠️</sub>
+</center>
