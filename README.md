@@ -53,7 +53,7 @@ for key, value in stats.items():
 ┌─────────────────────────────────────────────────────────────────┐
 │  [BACKEND]     Kubernetes │ Rust │ Haskell Reverse Proxy        │
 │  [FRONTEND]    React │ Gatsby │ TypeScript │ SCSS               │
-│  [CYBERSEC]    70+ Projects │ CertGames-Core (7k+ users)        │
+│  [CYBERSEC]    ==+ Projects │ CertGames-Core (7k+ users)        │
 │  [DATABASE]    MongoDB │ PostgreSQL                             │
 │  [DEVOPS]      Docker │ 3-Node Cluster │ CentOS                 │
 └─────────────────────────────────────────────────────────────────┘
