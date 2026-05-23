@@ -18,45 +18,6 @@
 - FIREWALL: BYPASSED
 ! BACKDOOR: DEPLOYED
 
-┌─────────────────────────────────────────────────────────────┐
-│  USER ID:     edrawardhana                                  │
-│  ALIAS:       Digital Ghost                                 │
-│  LOCATION:    ./earth/indonesia [LAT: -6.2, LONG: 106.8]    │
-│  STATUS:      🟢 ACTIVE - UNTRACEABLE                       │
-│  MISSION:     Break encryption, fix exploits                │
-└─────────────────────────────────────────────────────────────┘
->>> from core import stats
-
->>> from core import stats
-
-stats = {
-    "⭐ STARS_EARNED"     : "2.3k",
-    "💬 COMMENTS"         : "10.4k",
-    "🔄 PULL_REQUESTS"    : "291",
-    "✅ MERGED_PR"        : "267 (91.5%)",
-    "🔍 PR_REVIEWED"      : "101",
-    "🐛 BUGS_CRUSHED"     : "49",
-    "🌍 CONTRIBUTIONS"    : "7 projects"
-}
-
-for key, value in stats.items():
-    print(f"[*] {key}: {value}")
-
-╔══════════════════════════════════════════════════════════════╗
-║  [✓] Developer Program Member              [UNLOCKED]        ║
-║  [✓] DedSec Legacy Access                  [UNLOCKED]        ║
-║  [✓] Ghost Protocol                        [ACTIVE]          ║
-║  [✓] Report/Block User                     [DENIED]          ║
-║  [✓] 91.5% Merge Rate                      [LEGENDARY]       ║
-╚══════════════════════════════════════════════════════════════╝
-
-┌─────────────────────────────────────────────────────────────────┐
-│  [BACKEND]     Kubernetes │ Rust │ Haskell Reverse Proxy        │
-│  [FRONTEND]    React │ Gatsby │ TypeScript │ SCSS               │
-│  [CYBERSEC]    ==+ Projects │ CertGames-Core (7k+ users)        │
-│  [DATABASE]    MongoDB │ PostgreSQL                             │
-│  [DEVOPS]      Docker │ 3-Node Cluster │ CentOS                 │
-└─────────────────────────────────────────────────────────────────┘
 
 📧 Email: edrawardhana@github.com (PGP Encrypted)
 🐙 GitHub: github.com/edrawardhana
