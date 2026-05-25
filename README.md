@@ -19,9 +19,7 @@
 ! BACKDOOR: DEPLOYED
 
 
-📧 Email: edrawardhana@github.com (PGP Encrypted)
-🐙 GitHub: github.com/edrawardhana
-PGP Fingerprint: EDRA-WARDHANA-GHOST-2F4A-9B1C
+
 "Ask me anything — I don't bite, just encrypt."
 
 +  ██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
