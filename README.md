@@ -11,7 +11,70 @@
 </p>
 
 <pre>
-01001101 01000001 01010100 01010010 01001001 01011000 00100000 01010011 01011001 01010011 01010100 01000101 01001101
+                            __          .gp.__/                            
+                       .ssSSSSSs.__    d$P^^^"                             
+                    .sSSSSSSS$$$$$$$p.dP                                   
+                  .SSSSSS$$$$$SSSSSSSS$bs+._                               
+                .SSSS$$$$$SSSSS$$$$$$$SS$$$$b__                       /"-. 
+                SSS$$$SSSSS$$$$$$$$SSSS$$$SSSS$b                   _/"-. / 
+               :S$$$SSSSS$$$$$$$SSSSS$$$SSSS$$SSb                 //   /"-.
+               $$SSSSS$$$$$$SSSSS$$$$$$S$$$$S$$$Sb.               ;   /   /
+               SSSSS$$$$$SSSSS$$$$$$$SS'P   SS$$S`^b._.'         /:  :   / 
+               :S$$$$$SSSSS$$$$$$$SSSP      :$SS$b              / ;  +-./  
+                $$$$SSSS$$$$$$$SSSSSP        S$SS$;            / /  / / ;  
+               d$$SSS$$$$$SSSSSSSSS' ,=._    :S':S$           / /  / / /   
+              :$SSS$$$$SSSSSSSSS^"  '  _ ";  ;   S$          / /  / / /    
+              SSS$$$SSSP.-TSS^"     .="$;   /    S;         / /  / / /     
+             :SS$$$SSS$$ (;            "    \    P         / /  / : :      
+             :S$$$SS$$$$b :                  \ .'         / /  /  :  \     
+              T$$SS$$$$$j`-,    .          ,  \         /"-(  /   ;_-.\    
+               `TSS$$$$P   ;    `.         `.-'        /  /\\/   .'/_ ;;   
+                 TS$$$P    :             _.-;         /  /\\(   / /-" ;;   
+                  SSS'      \           :-t"         : .-\\/ "-/":   //    
+                .SS$$        `.          `-;  bug    )Y   y   /  ;  J/     
+               :S$$$;          "-.        (          '"; j_.-/-./.-" \_    
+               $S$SS              "j.     :            :/  ':    `-..' \   
+              d$$SS;     :        /  "-._.'             `.  ;       `-./;  
+            _S$$$SP       \      :                        \: :"-.      \;  
+          ,$$$SSSj       , `.    ;                         : ;   "-,   /   
+          S$$SS'"^-...___       : "-.                      ;/      ;  t    
+      __.-`SS'---. `T$$$$$$q._       "-.                  / `.    /   ;    
+  .-""__ `.'      `. `T$$$$$$$$b.       `.               :    "--"   /     
+ /.-""  \/          `. T$$$$$$$$$$p.     .`._            /"-.  _   .'      
+::      /             \ T$$$$$SS$$$$$b._  `.T$p.        /    "" ;-'        
+;;     :               \ T$$$S$$$$$$$$$$$p._L$$$$p.    /       ,           
+;;     ;                \ $$$$$$$$$$$$$$$$$$$SS$$$$$. /                    
+::     ;                 ;:$$$$$$$$$$$$$$SSSSSSSSS$$$y        '            
+ ;;    :                  "^$$$$$$$$$$$$$$$$$SSSS$$$P        /             
+ ;;     b.                   "^$$$$$$$$$$$$$$$$$S$$'        /              
+ ::     :$$p.  -._              "^$$$$$$$$$$$$$$$'         /               
+  ;;     $$$$$p.                   "^$$$$$$$$$$P          /                
+  ::     :$$$$$$p.                    "^$$$$$$P          ,                 
+   ;;     T$$$$$$$$p.                    "^$$P                             
+   ::      T$$$$$$$P "-.                    "           '                  
+   s;;      $$$$$$P   d$$p._                     /     /                   
+  S$$:      $$$$$t   d$$$$$$$p._          "-.  .'     /                    
+  SS$;;     :P^"\ \.d$$$$$$$$$$$$p._         ""      /                     
+   TS::      \   d$$$$$$$$$$$$$$$$$$$p._            /                      
+    SS.\     .jq$$$$$$$$$$$$$$$$$$^^^^^""-._      .';                      
+   $$$$.tsssj' `T$$$$$$$^^^^^"""            "-._.'  ;                      
+   $$$SSS         \                 /            \ :                       
+   '^SSS_          \               :          :    :                       
+     $$$SS.         \              ;          :    ;                       
+     '$$$SS          \            :           ;   :                        
+       "^S$.          \           ;          :    :                        
+         S$$b.         \                     ;    ;                        
+         S$$$$          ;                   :    :                         
+         'TSS$$$s.      :                   ;    ;                         
+             TS$$Ss_    ;                   ;   :                          
+              `SSS$$$p./                   :    ;                          
+                  TS$$'            ;       ;    :                          
+                   "S              :       ;     ;                         
+                   /                ;      :     :                         
+                  /                 :            :                         
+                 /"-.                          .' ;                        
+                /    ""--..__          __..--""   :                        
+                             """"""""""
 </pre>
 
 ```diff
@@ -34,19 +97,6 @@
 +  "The system thinks it controls us. We are the control."
 +  -- Edra, DedSec Operative
 ```
-<pre>
-     .--.
-    /    \
-   /  ()  \
-  |   /\   |
-  |  /  \  |
-  | /    \ |
-  |/      \|
-   \      /
-    \    /
-     \  /
-      \/
-</pre>
 
 <p align="center">
   <strong style="color: #00ffcc;">☠️ ROOT ACCESS GRANTED // WELCOME TO THE UNDERGROUND ☠️</strong>
@@ -62,21 +112,3 @@
 <center>
   <sub>⚠️ <i>This profile is encrypted with DedSec protocol v2.0 | Unauthorized access will be traced</i> ⚠️</sub>
 </center>
-
-### 🧬 INSTALLED EXPLOITS // TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,linux,docker,kali,aws,nginx,mysql&perline=6&theme=dark" />
-</p>
-
-<pre>
-┌─────────────────────────────────────────────────────┐
-│  ☠️  KERNEL PANIC // SYSTEM COMPROMISED             │
-│                                                     │
-│  > SEGFAULT at 0xDEADBEEF                           │
-│  > Unhandled exception: DEDSEC_INJECTION            │
-│  > Dumping core... ████████████████░░ 87%           │
-│                                                     │
-│  [Press any key to continue... or don't. We own you]│
-└─────────────────────────────────────────────────────┘
-</pre>
