@@ -43,3 +43,6 @@
 <center>
   <sub>⚠️ <i>This profile is encrypted with DedSec protocol v2.0 | Unauthorized access will be traced</i> ⚠️</sub>
 </center>
+
+
+[![SYSTEM ACTIVITY LOG](https://github-readme-activity-graph.vercel.app/graph?username=edrawardhana&theme=react-dark&custom_title=>>_LIVE_PACKET_SNIFFING&bg_color=0a0a0a&color=00ffcc&line=00ffcc&point=00ffcc&area_color=00ffcc&border_color=00ffcc&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
