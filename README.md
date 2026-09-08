@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/BACKDOOR-DEPLOYED-00ffcc?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
----
+<pre>
+01001101 01000001 01010100 01010010 01001001 01011000 00100000 01010011 01011001 01010011 01010100 01000101 01001101
+</pre>
 
 ```diff
 # @@ MATRIX // DEDSEC PROFILE @@
@@ -32,8 +34,25 @@
 +  "The system thinks it controls us. We are the control."
 +  -- Edra, DedSec Operative
 ```
-<!-- Hapus bagian bawah yang lama, ganti dengan ini. Pastikan ada baris kosong di atasnya -->
+<pre>
+     .--.
+    /    \
+   /  ()  \
+  |   /\   |
+  |  /  \  |
+  | /    \ |
+  |/      \|
+   \      /
+    \    /
+     \  /
+      \/
+</pre>
 
+<p align="center">
+  <strong style="color: #00ffcc;">☠️ ROOT ACCESS GRANTED // WELCOME TO THE UNDERGROUND ☠️</strong>
+</p>
+
+---
 <center>
   <img src="https://img.shields.io/badge/DEDSEC_ACCESS_COUNT-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
   <br>
@@ -44,5 +63,20 @@
   <sub>⚠️ <i>This profile is encrypted with DedSec protocol v2.0 | Unauthorized access will be traced</i> ⚠️</sub>
 </center>
 
+### 🧬 INSTALLED EXPLOITS // TECH STACK
 
-[![SYSTEM ACTIVITY LOG](https://github-readme-activity-graph.vercel.app/graph?username=edrawardhana&theme=react-dark&custom_title=>>_LIVE_PACKET_SNIFFING&bg_color=0a0a0a&color=00ffcc&line=00ffcc&point=00ffcc&area_color=00ffcc&border_color=00ffcc&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,linux,docker,kali,aws,nginx,mysql&perline=6&theme=dark" />
+</p>
+
+<pre>
+┌─────────────────────────────────────────────────────┐
+│  ☠️  KERNEL PANIC // SYSTEM COMPROMISED             │
+│                                                     │
+│  > SEGFAULT at 0xDEADBEEF                           │
+│  > Unhandled exception: DEDSEC_INJECTION            │
+│  > Dumping core... ████████████████░░ 87%           │
+│                                                     │
+│  [Press any key to continue... or don't. We own you]│
+└─────────────────────────────────────────────────────┘
+</pre>
